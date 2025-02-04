@@ -1,0 +1,35 @@
+
+ .btn-1:hover{
+    background: transparent;
+    color:#ff8d00 ;
+    border: 2px solid #ff8d00;
+ }
+.btn-2:hover{
+    background: transparent;
+    color: #000fff;
+    border: 2px solid #000fff;
+}
+.btn-221:hover{
+    background: transparent;
+    color:#ff8d00 ;
+    border: 2px solid #ff8d00;
+}
+.btn-f:hover{
+    background: transparent;
+    color: #000fff;
+    border: 2px solid #000fff;
+}
+
+.btn-form:hover{
+    background:transparent ;
+    color:#000fff;
+    border: 1px solid #000fff;
+}
+
+.hall21:hover{
+    color: #000fff;
+}
+
+.hall12:hover{
+    color: #000fff;
+}

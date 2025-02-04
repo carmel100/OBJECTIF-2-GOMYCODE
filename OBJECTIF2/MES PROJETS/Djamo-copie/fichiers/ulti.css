@@ -1,0 +1,107 @@
+
+#containero15:hover {
+  background:blue ;
+}
+#containero16:hover{
+ background: gold;
+}
+#containero17:hover{
+ background :red ;
+}
+#containero19:hover{
+ background: pink;
+}
+#containero20:hover{
+  background: black;
+}
+#containero18:hover{
+  background: green;
+}
+
+.vento0{
+  position: relative;
+
+}
+
+
+.cont {
+    display: flex;
+    border-radius: 8px;
+    align-items: center;
+}
+.cont1 {
+    background: rgba(255, 255, 255, 0.562);
+    height: 48px;
+    display: grid;
+    align-content: center;
+    border-radius: 10px;
+    width: 48px;
+    justify-content: center;
+    margin-inline-end: 10px;
+    box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.137);
+}
+.img-j {
+    height: 32px;
+}
+
+.cont:hover  .cont2 .cont3 .vecount3{ 
+  color: blue;
+}
+.cont:hover { 
+  background: rgba(0, 0, 255, 0.075);
+}
+.vecount3 {
+    font-size: 20px;
+    margin-block-end: 6px;
+    color: black;
+}
+.vecount4 {
+    font-size: 20px;
+     color: rgba(0, 0, 0, 0.5);
+}
+
+.content0:hover{
+  background: rgba(0, 0, 0, 0.137);
+  color: #0c29ff;
+}
+
+
+
+.contento113::placeholder{
+   font-size: 15px;
+   text-align: center;
+   
+}
+.contento113:focus{
+   font-size: 18px;
+   text-align: start;
+   
+  }
+
+ .btn-0:hover{
+
+  outline: 2px,blue;
+
+  background: rgb(1, 1, 211);
+
+ }
+
+ .btn-1:hover{
+
+  background: rgb(1, 1, 211);
+
+ }
+ .content533:hover{
+
+  background: rgb(1, 1, 211);
+
+ }
+ .btn-j:hover{
+
+  background: rgb(1, 1, 211);
+
+ }
+
+
+  
+
